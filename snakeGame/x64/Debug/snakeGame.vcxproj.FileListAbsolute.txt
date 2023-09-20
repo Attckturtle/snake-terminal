@@ -1,0 +1,2 @@
+C:\Users\Shing\Desktop\c++\snakeGame\x64\Debug\snakeGame.exe
+C:\Users\shing\Source\Repos\snake-game-terminal\snakeGame\x64\Debug\snakeGame.exe

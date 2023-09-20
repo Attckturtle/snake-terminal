@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\shing\Source\Repos\snake-game-terminal\snakeGame\main.cpp(69,3): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\shing\Source\Repos\snake-game-terminal\snakeGame\main.cpp(116,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  snakeGame.vcxproj -> C:\Users\shing\Source\Repos\snake-game-terminal\snakeGame\x64\Debug\snakeGame.exe

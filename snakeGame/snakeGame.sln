@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "snakeGame", "snakeGame.vcxproj", "{065FD687-7410-4596-8433-78789DF2C214}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{065FD687-7410-4596-8433-78789DF2C214}.Debug|x64.ActiveCfg = Debug|x64
+		{065FD687-7410-4596-8433-78789DF2C214}.Debug|x64.Build.0 = Debug|x64
+		{065FD687-7410-4596-8433-78789DF2C214}.Debug|x86.ActiveCfg = Debug|Win32
+		{065FD687-7410-4596-8433-78789DF2C214}.Debug|x86.Build.0 = Debug|Win32
+		{065FD687-7410-4596-8433-78789DF2C214}.Release|x64.ActiveCfg = Release|x64
+		{065FD687-7410-4596-8433-78789DF2C214}.Release|x64.Build.0 = Release|x64
+		{065FD687-7410-4596-8433-78789DF2C214}.Release|x86.ActiveCfg = Release|Win32
+		{065FD687-7410-4596-8433-78789DF2C214}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0DD0A56-D1AA-4C2C-9B87-AB354E951B38}
+	EndGlobalSection
+EndGlobal
